@@ -30,6 +30,10 @@ code .
 
 No known bugs are present within this code
 
+## GitHub Pages
+
+https://bbakshev.github.io/portfolio-landing-page/
+
 ## License
 
 MIT
