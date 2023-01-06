@@ -1,3 +1,15 @@
+div .color{
+  position: relative;
+  animation-name: move-down;
+  animation-duration: 3s;  
+  animation-delay: 0s;
+  animation-fill-mode:forwards;
+}
+
+@keyframes move-down {
+  from {bottom: 300px;}
+  to {bottom: 0px;}
+}
 .column {
   float: left;
   margin: 10px;
